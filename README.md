@@ -1,6 +1,6 @@
 # Personal Setup
 
-My personal setup I'll keep this list updated as I may have forgotten packages or anything I may add as new . I know I'm missing a lot.
+My personal setup I'll keep this list updated as I know I probably have forgotten a lot of them and I’ll also add anything new.
 
 ## Brew list
 
@@ -59,10 +59,10 @@ npm install -g cli-react
 npm install -g eslint  
 npm install -g grunt-cli  
 npm install -g gulp-cli  
-npm install -g jshint
+npm install -g jshint  
 npm install -g prettier  
 npm install -g sass-lint  
-npm install -g typescript 
+npm install -g typescript  
 npm install -g mocha  
 npm install -g nodemon  
 npm install -g react-native-cli  
