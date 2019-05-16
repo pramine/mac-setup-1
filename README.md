@@ -1,6 +1,8 @@
-# Personal Setup
+# Personal Mac Setup
 
 My personal setup I'll keep this list updated as I know I probably have forgotten a lot of them and I’ll also add anything new.
+
+[My terminal setup](https://github.com/kdbaustert/personal-terminal-setup)
 
 ## Brew list
 
@@ -19,6 +21,7 @@ brew install zsh-syntax-highlighting
 brew install zsh zsh-completions  
 brew install php  
 brew install php-cs-fixer  
+brew install mas  
 
 ## Brew cask list
 
@@ -72,5 +75,3 @@ npm install -g @vue/cli
 npm install -g yo  
 npm install -g bower  
 npm install -g generator-chrome-extension  
-
-
