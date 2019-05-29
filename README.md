@@ -42,6 +42,8 @@ brew cask install hue-sync
 brew cask install vivaldi  
 brew cask install grammarly  
 brew cask install alfred  
+brew cask install insomnia   
+brew cask install sequel-pro   
 
 ## Global Composer
 
