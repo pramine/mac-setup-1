@@ -47,6 +47,8 @@ brew cask install grammarly
 brew cask install alfred  
 brew cask install insomnia   
 brew cask install sequel-pro   
+brew cask install zeplin  
+brew cask install hyper
 
 ## Global Composer
 
