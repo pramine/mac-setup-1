@@ -22,6 +22,9 @@ brew install zsh zsh-completions
 brew install php  
 brew install php-cs-fixer  
 brew install mas  
+brew install ssh-copy-id  
+brew install php-cs-fixer  
+
 
 ## Brew cask list
 
