@@ -24,6 +24,7 @@ brew install php-cs-fixer
 brew install mas  
 brew install ssh-copy-id  
 brew install php-cs-fixer  
+brew install git-lfs  
 
 
 ## Brew cask list
