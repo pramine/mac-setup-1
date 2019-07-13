@@ -25,7 +25,12 @@ brew install mas
 brew install ssh-copy-id  
 brew install php-cs-fixer  
 brew install git-lfs  
-
+brew install themekit   
+brew install openssl    
+brew install composer    
+brew install rsync    
+brew install zsh-syntax-highlighting    
+brew install zsh-completions    
 
 ## Brew cask list
 
@@ -49,7 +54,8 @@ brew cask install alfred
 brew cask install insomnia   
 brew cask install sequel-pro   
 brew cask install zeplin  
-brew cask install hyper
+brew cask install hyper    
+brew cask install activedock    
 
 ## Global Composer
 
@@ -59,7 +65,8 @@ composer global require "squizlabs/php_codesniffer=*"
 composer global require phpunit/phpunit  
 composer global require "phpstan/phpstan"  
 composer global require "deployer/deployer"  
-composer global require "escapestudios/symfony2-coding-standard"  
+composer global require "escapestudios/symfony2-coding-standard"        
+
 
 ## Global NPM / Yarn  
 npm install -g alfred-fkill   
