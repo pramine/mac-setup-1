@@ -56,6 +56,7 @@ brew cask install sequel-pro
 brew cask install zeplin  
 brew cask install hyper    
 brew cask install activedock    
+brew cask install onyx   
 
 ## Global Composer
 
