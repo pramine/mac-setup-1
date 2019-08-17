@@ -27,10 +27,7 @@ brew install php-cs-fixer
 brew install git-lfs  
 brew install themekit   
 brew install openssl    
-brew install composer    
-brew install rsync    
-brew install zsh-syntax-highlighting    
-brew install zsh-completions    
+brew install composer     
 
 ## Brew cask list
 
@@ -39,11 +36,9 @@ brew cask install google-chrome
 brew cask install iterm2  
 brew cask install GitHub  
 brew cask install slack  
-brew cask install little-snitch  
 brew cask install transmit  
 brew cask install adobe-ceative-cloud  
 brew cask install visual-studio-code  
-brew cask install amazon-music  
 brew cask install the-unarchiver  
 brew cask install font-hack-nerd-font  
 brew cask install jetbrains-toolbox  
@@ -57,11 +52,12 @@ brew cask install zeplin
 brew cask install hyper    
 brew cask install activedock    
 brew cask install onyx   
+brew cask install spotiify    
 
 ## Global Composer
 
 composer global require laravel/installer  
-composer global require laravel/valet  
+composer global require weprovide/valet-plus  
 composer global require "squizlabs/php_codesniffer=*"  
 composer global require phpunit/phpunit  
 composer global require "phpstan/phpstan"  
