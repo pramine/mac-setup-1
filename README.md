@@ -52,7 +52,7 @@ brew cask install zeplin
 brew cask install hyper    
 brew cask install activedock    
 brew cask install onyx   
-brew cask install spotiify    
+brew cask install spotify    
 
 ## Global Composer
 
