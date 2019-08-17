@@ -21,13 +21,11 @@ brew install zsh-syntax-highlighting
 brew install zsh zsh-completions  
 brew install php  
 brew install php-cs-fixer  
-brew install mas  
-brew install ssh-copy-id  
-brew install php-cs-fixer  
 brew install git-lfs  
 brew install themekit   
 brew install openssl    
 brew install composer     
+brew install lastpass-cli        
 
 ## Brew cask list
 
@@ -53,6 +51,7 @@ brew cask install hyper
 brew cask install activedock    
 brew cask install onyx   
 brew cask install spotify    
+brew cask install lastpass   
 
 ## Global Composer
 
