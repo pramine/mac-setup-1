@@ -62,6 +62,9 @@ composer global require phpunit/phpunit
 composer global require "phpstan/phpstan"  
 composer global require "deployer/deployer"  
 composer global require "escapestudios/symfony2-coding-standard"        
+composer global require dealerdirect/phpcodesniffer-composer-installer     
+composer global require wp-coding-standards/wpcs     
+composer global require phpcompatibility/phpcompatibility-wp     
 
 
 ## Global NPM / Yarn  
