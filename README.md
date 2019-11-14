@@ -52,6 +52,7 @@ brew cask install activedock
 brew cask install onyx   
 brew cask install spotify    
 brew cask install lastpass   
+brew cask install homebrew/cask-versions/sequel-pro-nightly    
 
 ## Global Composer
 
