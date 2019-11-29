@@ -39,19 +39,18 @@ brew cask install adobe-ceative-cloud
 brew cask install visual-studio-code  
 brew cask install the-unarchiver  
 brew cask install font-hack-nerd-font  
-brew cask install jetbrains-toolbox  
 brew cask install hue-sync  
 brew cask install vivaldi  
 brew cask install grammarly  
 brew cask install alfred  
-brew cask install insomnia   
-brew cask install sequel-pro   
+brew cask install insomnia    
 brew cask install zeplin  
 brew cask install hyper    
 brew cask install activedock    
 brew cask install onyx   
 brew cask install spotify    
 brew cask install lastpass   
+brew cask install tableplus   
 brew cask install homebrew/cask-versions/sequel-pro-nightly    
 
 ## Global Composer
@@ -69,11 +68,9 @@ composer global require phpcompatibility/phpcompatibility-wp
 
 
 ## Global NPM / Yarn  
-npm install -g alfred-fkill   
 npm install -g alfred-mdi  
 npm install -g alfred-npms  
 npm install -g alfred-vscode  
-npm install -g cli-react  
 npm install -g eslint  
 npm install -g grunt-cli  
 npm install -g gulp-cli  
@@ -88,5 +85,4 @@ npm install -g expo-cli
 npm install -g vue-native-cli  
 npm install -g @vue/cli  
 npm install -g yo  
-npm install -g bower  
-npm install -g generator-chrome-extension  
+npm install -g bower    
