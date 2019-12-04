@@ -39,8 +39,6 @@ brew cask install adobe-ceative-cloud
 brew cask install visual-studio-code  
 brew cask install the-unarchiver  
 brew cask install font-hack-nerd-font  
-brew cask install hue-sync  
-brew cask install vivaldi  
 brew cask install grammarly  
 brew cask install alfred  
 brew cask install insomnia    
