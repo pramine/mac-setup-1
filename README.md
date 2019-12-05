@@ -13,7 +13,7 @@ brew install go
 brew install ssh-copy-id  
 brew install ruby  
 brew install zsh  
-brew install powerlevel9k  
+brew install powerlevel10k  
 brew install mariadb  
 brew install wp-cli  
 brew install rsync  
