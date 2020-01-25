@@ -29,9 +29,15 @@ brew install lastpass-cli
 
 ## Brew cask list
 
+Run
+
+```
+brew tap caskroom/versions
+```
+
 brew cask install dropbox  
 brew cask install google-chrome  
-brew cask install iterm2  
+brew cask install iterm2-nightly     
 brew cask install GitHub  
 brew cask install slack  
 brew cask install transmit  
