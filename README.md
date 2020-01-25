@@ -6,6 +6,7 @@ My personal setup I'll keep this list updated as I know I probably have forgotte
 
 ## Brew list
 
+```
 brew install wget  
 brew install yarn  
 brew install node  
@@ -25,7 +26,8 @@ brew install git-lfs
 brew install themekit   
 brew install openssl    
 brew install composer     
-brew install lastpass-cli        
+brew install lastpass-cli 
+```
 
 ## Brew cask list
 
@@ -35,6 +37,7 @@ Run
 brew tap caskroom/versions
 ```
 
+```
 brew cask install dropbox  
 brew cask install google-chrome  
 brew cask install iterm2-nightly     
@@ -56,9 +59,11 @@ brew cask install spotify
 brew cask install lastpass   
 brew cask install tableplus   
 brew cask install homebrew/cask-versions/sequel-pro-nightly    
+```
 
 ## Global Composer
 
+```
 composer global require laravel/installer  
 composer global require weprovide/valet-plus  
 composer global require "squizlabs/php_codesniffer=*"  
@@ -69,9 +74,12 @@ composer global require "escapestudios/symfony2-coding-standard"
 composer global require dealerdirect/phpcodesniffer-composer-installer     
 composer global require wp-coding-standards/wpcs     
 composer global require phpcompatibility/phpcompatibility-wp     
+```
 
 
 ## Global NPM / Yarn  
+
+```
 npm install -g alfred-mdi  
 npm install -g alfred-npms  
 npm install -g alfred-vscode  
@@ -90,3 +98,4 @@ npm install -g vue-native-cli
 npm install -g @vue/cli  
 npm install -g yo  
 npm install -g bower    
+```
