@@ -16,8 +16,7 @@ brew install ruby
 brew install zsh  
 brew install powerlevel10k  
 brew install mariadb  
-brew install wp-cli  
-brew install rsync  
+brew install wp-cli   
 brew install zsh-syntax-highlighting  
 brew install zsh zsh-completions  
 brew install php  
@@ -26,7 +25,7 @@ brew install git-lfs
 brew install themekit   
 brew install openssl    
 brew install composer     
-brew install lastpass-cli 
+brew install httpie    
 ```
 
 ## Brew cask list
@@ -43,7 +42,6 @@ brew cask install google-chrome
 brew cask install iterm2-nightly     
 brew cask install GitHub  
 brew cask install slack  
-brew cask install transmit  
 brew cask install adobe-ceative-cloud  
 brew cask install visual-studio-code  
 brew cask install the-unarchiver  
