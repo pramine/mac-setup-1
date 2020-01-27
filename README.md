@@ -26,6 +26,8 @@ brew install themekit
 brew install openssl    
 brew install composer     
 brew install httpie    
+brew install tree    
+brew install autojump    
 ```
 
 ## Brew cask list
@@ -78,6 +80,7 @@ composer global require phpcompatibility/phpcompatibility-wp
 ## Global NPM / Yarn  
 
 ```
+npm install -g add-gitignore        
 npm install -g alfred-mdi  
 npm install -g alfred-npms  
 npm install -g alfred-vscode  
