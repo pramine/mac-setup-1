@@ -42,7 +42,7 @@ brew tap caskroom/versions
 brew cask install dropbox  
 brew cask install google-chrome  
 brew cask install iterm2-nightly     
-brew cask install GitHub  
+brew cask install github  
 brew cask install slack  
 brew cask install adobe-ceative-cloud  
 brew cask install visual-studio-code  
@@ -50,10 +50,9 @@ brew cask install the-unarchiver
 brew cask install font-hack-nerd-font  
 brew cask install grammarly  
 brew cask install alfred  
-brew cask install insomnia    
 brew cask install zeplin  
 brew cask install hyper    
-brew cask install activedock    
+brew cask install ubar    
 brew cask install onyx   
 brew cask install spotify    
 brew cask install lastpass   
