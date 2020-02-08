@@ -39,6 +39,7 @@ brew tap caskroom/versions
 ```
 
 ```
+brew cask install fontbase    
 brew cask install iconjar    
 brew cask install dropbox  
 brew cask install google-chrome  
