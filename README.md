@@ -35,7 +35,7 @@ brew install autojump
 Run
 
 ```
-brew tap caskroom/versions
+brew tap homebrew/cask-versions
 ```
 
 ```
