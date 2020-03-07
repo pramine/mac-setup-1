@@ -99,5 +99,6 @@ npm install -g expo-cli
 npm install -g vue-native-cli  
 npm install -g @vue/cli  
 npm install -g yo  
+npm install -g yo generator-code   
 npm install -g bower    
 ```
