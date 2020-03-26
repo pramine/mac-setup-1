@@ -39,8 +39,8 @@ brew tap homebrew/cask-versions
 ```
 
 ```
-brew cask install fontbase    
-brew cask install iconjar    
+brew cask install fontbase*    
+brew cask install iconjar*    
 brew cask install dropbox  
 brew cask install google-chrome  
 brew cask install iterm2-nightly     
@@ -51,15 +51,20 @@ brew cask install visual-studio-code
 brew cask install the-unarchiver  
 brew cask install font-hack-nerd-font  
 brew cask install grammarly  
-brew cask install alfred  
+brew cask install alfred*  
 brew cask install zeplin  
 brew cask install hyper    
-brew cask install ubar    
+brew cask install ubar*    
 brew cask install onyx   
 brew cask install spotify    
 brew cask install lastpass   
-brew cask install tableplus   
+brew cask install tableplus*   
 brew cask install homebrew/cask-versions/sequel-pro-nightly    
+brew cask install bartender* 
+brew cask install dash*
+brew cask install insomnia
+brew cask install boostnote    
+brew cask install insomnia    
 ```
 
 ## Global Composer
