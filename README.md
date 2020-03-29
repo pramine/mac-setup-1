@@ -65,6 +65,7 @@ brew cask install dash*
 brew cask install insomnia
 brew cask install boostnote    
 brew cask install insomnia    
+brew cask install runjs   
 ```
 
 ## Global Composer
