@@ -39,8 +39,8 @@ brew tap homebrew/cask-versions
 ```
 
 ```
-brew cask install fontbase*    
-brew cask install iconjar*    
+brew cask install fontbase    
+brew cask install iconjar    
 brew cask install dropbox  
 brew cask install google-chrome  
 brew cask install iterm2-nightly     
@@ -51,20 +51,20 @@ brew cask install visual-studio-code
 brew cask install the-unarchiver  
 brew cask install font-hack-nerd-font  
 brew cask install grammarly  
-brew cask install alfred*  
+brew cask install alfred  
 brew cask install zeplin  
 brew cask install hyper    
-brew cask install ubar*    
+brew cask install ubar    
 brew cask install onyx   
 brew cask install spotify    
 brew cask install lastpass   
-brew cask install tableplus*   
+brew cask install tableplus   
 brew cask install homebrew/cask-versions/sequel-pro-nightly    
-brew cask install bartender* 
-brew cask install dash*
+brew cask install bartender 
+brew cask install dash
 brew cask install insomnia
 brew cask install boostnote    
-brew cask install insomnia    
+brew cask install firefox-developer-edition    
 brew cask install runjs   
 ```
 
@@ -100,11 +100,11 @@ npm install -g sass-lint
 npm install -g typescript  
 npm install -g mocha  
 npm install -g nodemon  
-npm install -g react-native-cli  
 npm install -g expo-cli  
 npm install -g vue-native-cli  
 npm install -g @vue/cli  
 npm install -g yo  
 npm install -g yo generator-code   
-npm install -g bower    
+npm install -g lodash
+npm install -g vuepress    
 ```
